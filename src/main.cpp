@@ -26,5 +26,5 @@ void loop() {
     } else {
         Serial.println("HD38 read error");
     }
-    delay(2000);
+    delay(20000);
 }
